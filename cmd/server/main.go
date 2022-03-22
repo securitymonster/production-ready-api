@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	transportHTTP "github.com/securitymonster/production-ready-api/internal/transport/http"
+	transportHTTP "github.com/securitymonster/production-ready-api/internal/transport/http/handler.go"
 )
 
 // App - the struct which contains things like pointers
