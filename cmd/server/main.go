@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	transportHTTP "github.com/securitymonster/production-ready-api/internal/transport/http"
+	transportHTTP "https://github.com/securitymonster/production-ready-api/tree/main/internal/transport/http"
 	// transportHTTP "github.com/TutorialEdge/go-rest-api-course/internal/transport/http"
 )
 
